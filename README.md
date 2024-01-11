@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raman Verma</h1>
 <h3 align="center">Sophomore at IIT Kanpur.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=electrobuzz" alt="electrobuzz" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
