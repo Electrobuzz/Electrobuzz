@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raman Verma</h1>
-<h3 align="center">Sophomore at IIT Kanpur.</h3>
+<h3 align="center">Junior at IIT Kanpur.</h3>
 
 - 🌱 I’m currently learning **Blockchain**
 
