@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MLops**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Software Development Projects**
 
 - 📫 How to reach me **ramanverma22@iitk.ac.in**
 
